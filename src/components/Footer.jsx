@@ -27,7 +27,6 @@ const Footer = () => {
                   href="https://mail.google.com/mail/u/4/#inbox?compose=new"
                   target="black"
                 >
-                  {/* <b>sridar1404@gmail.com</b> */}
                   <svg
                     width={"30px"}
                     xmlns="http://www.w3.org/2000/svg"
@@ -38,7 +37,6 @@ const Footer = () => {
                 </a>
 
                 <a href="https://www.linkedin.com/in/ajayvr/" target="black">
-                  {/* <b>sridar14</b> */}
                   <svg
                     width={"30px"}
                     xmlns="http://www.w3.org/2000/svg"
